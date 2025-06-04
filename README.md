@@ -1,6 +1,6 @@
 # Vehicle REST API (Laravel)
 
-This project implements a RESTful API for managing vehicles using Laravel, following a clean architecture with Service and Repository layers.
+This project implements a RESTful API for managing vehicles using Laravel, following Service and Repository layers.
 
 ## Features
 
